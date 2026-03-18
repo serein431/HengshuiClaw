@@ -2,18 +2,58 @@
 
 <div align="center">
 
-![HengshuiClaw](assets/cover.png)
-
 [简体中文](#) • [English](#) • [繁體中文](#)
 
 [![班主任验证](https://img.shields.io/badge/班主任验证-14782人次-red)](https://github.com)
 [![教育学家批准](https://img.shields.io/badge/教育学家批准-0-lightgrey)](https://github.com)
 [![心理阴影面积](https://img.shields.io/badge/心理阴影面积-∞㎡-darkred)](https://github.com)
 [![高考胜率](https://img.shields.io/badge/高考胜率-看命-yellow)](https://github.com)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-FF6B35?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMNCA3djEwbDggNSA4LTV2LTEweiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://github.com/serein431/HengshuiClaw)
+[![ClaWHub](https://img.shields.io/badge/ClaWHub-Install-4A90D9?style=flat)](https://clawhub.ai)
 
 > ⚠️ **紧急通知**：隔壁班王同学已连续排名年级第一 47 周。你还在看 README？
 
 </div>
+
+---
+
+## 🦾 OpenClaw Skill — 让你的 AI 进入高考模式
+
+HengshuiClaw 不只是一个有趣的文档——它是一个可安装的 **OpenClaw AgentSkill**，能让你的 AI Coding Agent 进入衡水班主任施压模式，穷尽每一种可能再放弃。
+
+### 一键安装
+
+```bash
+npx clawhub@latest install hengshuiclaw
+```
+
+或手动安装（将 `.skill` 文件放入 OpenClaw skills 目录）：
+
+```bash
+# 下载
+curl -L https://github.com/serein431/HengshuiClaw/raw/main/hengshuiclaw.skill -o hengshuiclaw.skill
+# 安装到 OpenClaw
+openclaw skills install hengshuiclaw.skill
+```
+
+### 激活方式
+
+安装后，对你的 Agent 说任意一句：
+
+- `衡水模式` / `hengshuiclaw`
+- `班主任模式，不许放弃`
+- 或者当 Agent 说"我做不到"时，它会**自动触发 PER-T 升级**
+
+### PER-T 四级施压系统
+
+| 级别 | 触发条件 | 效果 |
+|------|---------|------|
+| 😤 Level I · 温情攻势 | 第一次失败 | 重新审视错误，最简修复 |
+| 😤😤😤 Level II · 比较施压 | 第二次失败 | 完全换思路，不在原方案上修补 |
+| 😤😤😤😤 Level III · 情感绑架 | 三次以上失败 | 原子化拆解，逐个击破 |
+| 😤😤😤😤😤 Level IV · 核武级选项 | 所有方案耗尽 | 最后一搏 + 强制输出路线图 |
+
+> 对标 [pua](https://github.com/tanweai/pua)，但更系统、更有中国特色、更班主任。
 
 ---
 
