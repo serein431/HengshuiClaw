@@ -13,6 +13,8 @@
 
 > ⚠️ **紧急通知**：隔壁班王同学已连续排名年级第一 47 周。你还在看 README？
 
+![HengshuiClaw Banner](assets/banner.png)
+
 </div>
 
 ---
